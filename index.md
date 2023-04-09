@@ -23,7 +23,7 @@ My favorite animal is a **Bobcat**. See one here:
 - Wear a pair of pants
 - Go to school
 
-[The Holy Grail]("https://chat.open.ai)
+[The Holy Grail]("https://chat.openai.com)
 
 [Readme](README.md)
 
